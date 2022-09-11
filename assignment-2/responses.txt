@@ -1,1 +1,3 @@
-created a new file
+A directory is another name for a folder and they are used to organize files.
+VCS are useful because they help track the changes made by allowing you to save a snapshot, they can revert back to the previous changes, and they make it easy to share and collaborate with other parties.
+I am not super into art, but if I had to choose, I would say that oil painting is my favorite artistic medium because of the vibrant colors and cool techniques that are used with it.
