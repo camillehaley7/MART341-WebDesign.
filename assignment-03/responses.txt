@@ -1,0 +1,3 @@
+A computer uses Domain Name System (DNS) to look up domain names and get associated IP addresses. In simpler words, it is used to connect computers to a destination on the internet.
+A cookie is a file stored on the computer that include unique identifiers that web servers send to browsers. It is a way for a website to remember you.
+The three essentials parts of a URL are protocol are protocol, domain, and path. Protocol states how the web browser will communicate with a web server. Domain is the main direction to your site and all its content. And path are the instructions on how to navigate directories.
