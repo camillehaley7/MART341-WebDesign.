@@ -1,0 +1,5 @@
+My user testing sessions went well. I got two of my friends, who regularly buy from dispensaries test my website because I figured they would give better feedback than someone who has never visited a dispensary website before. I feel like I did not need to edit a lot after my user sessions but I did take some of their advice.
+
+I added more descriptions to some of my products but I had a lot of products that it was difficult to do it for every single one. I also just cleaned up some of the organizational structure so that it looked better. One thing I did not do was add the buy online element because I did not feel as though that was a feature that needed to be added.
+
+I faced a lot of challenges this week like organizing all of my coding in atom so that it looked the way I wanted it to and adding my style page to link to all of my pages and getting all of the colors right. It took me a lot of time to get it remotely close to what i was wanting but there are still some things that I could not figure out.
