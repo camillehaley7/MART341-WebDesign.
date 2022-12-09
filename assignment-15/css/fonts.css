@@ -1,0 +1,18 @@
+/* This is the file, "fonts.css." */
+@font-face {
+    font-family: 'Cinzel';
+    src: url('../fonts/Cinzel-Variable.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'NerkoOne';
+    src: url('../fonts/NerkoOne-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+ }
+
+ @font-face {
+     font-family: 'SyneMono';
+     src: url('../fonts/SyneMono-Regular.ttf') format('truetype');
+     font-style: normal;
+  }
